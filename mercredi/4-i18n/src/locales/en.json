@@ -1,0 +1,8 @@
+{
+  "name": "Name | Names",
+  "email": "Email",
+  "phone": "Phone",
+  "age": "Age",
+  "name_placeholder": "Enter your name",
+  "click_here": "Click here {name}"
+}
